@@ -10,12 +10,32 @@
 
 ## About
 
-Having learned game strategy algorithms in an intro module to data science and artificial intelligence module, I decided to learn the implementation of the game of chess. This game was implemented using Python and was inspired by Eddie Sharick's tutorial series. The repository involves added user interface features and the chess game has been created with the *STAR WARS* theme in mind. In this implementation, *NegaMax* with *alpha-beta pruning* optimisation algorithm is utilised.
+This game was implemented using Python and was inspired by Eddie Sharick's tutorial series. The repository involves added user interface features and the chess game has been created with the *STAR WARS* theme in mind. In this implementation, *NegaMax* with *alpha-beta pruning* optimisation algorithm is utilised.
 
 Link to [Eddie's Chess Series](https://www.youtube.com/watch?v=EnYui0e73Rs&list=PLBwF487qi8MGU81nDGaeNE1EnNEPYWKY_)
 
 ## Interfaces
 
+<table>
+  <tr>
+    <td>Main Menu</td>
+     <td>Credit Menu</td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="https://github.com/Jabezng2/Star-Wars-Chess-AI-Game/blob/main/interfaces/mainmenu.png"></td>
+    <td valign="top"><img src="https://github.com/Jabezng2/Star-Wars-Chess-AI-Game/blob/main/interfaces/creditspage.png"></td>
+  </tr>
+ </table>
+<table>
+  <tr>
+    <td>Start State</td>
+     <td>Game State</td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="https://github.com/Jabezng2/Star-Wars-Chess-AI-Game/blob/main/interfaces/gameStart.png"></td>
+    <td valign="top"><img src="https://github.com/Jabezng2/Star-Wars-Chess-AI-Game/blob/main/interfaces/gameCurrent.png"></td>
+  </tr>
+ </table>
 
 ## Pieces
 
